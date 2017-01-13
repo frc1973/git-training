@@ -1,2 +1,3 @@
 # git-training
-Experimenting with git!
+
+Hi there!
